@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464120618661",
+    "project_id": "it535-the-project",
+    "storage_bucket": "it535-the-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464120618661:android:0689e31319ca1a1807b74c",
+        "android_client_info": {
+          "package_name": "edu.ogan.it535.the_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464120618661-57oai4t5kpcvv9874qaslej7n5q7pjsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmx8ThU9oFRzJYSFhXFwftsH4Lps04YyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464120618661-57oai4t5kpcvv9874qaslej7n5q7pjsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
